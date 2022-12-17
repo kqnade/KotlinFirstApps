@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ep.1 - ClickButtonApp</string>
+    <string name="btn1">Cat</string>
+    <string name="btn2">Dog</string>
+    <string name="btnReset">Clear!</string>
+    <string name="noOutput">waiting for input…</string>
+    <string name="output1">Cat wat clicked!</string>
+    <string name="output2">Dog was clicked</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">エピソード1 - クリックボタンゲーム</string>
+    <string name="btn1">猫</string>
+    <string name="btn2">犬</string>
+    <string name="btnReset">リセット</string>
+    <string name="noOutput">入力待機中</string>
+    <string name="output1">猫がクリックされました。</string>
+    <string name="output2">犬がクリックされました。</string>
+
+</resources>

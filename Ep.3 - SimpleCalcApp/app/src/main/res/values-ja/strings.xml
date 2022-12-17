@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">シンプル計算機</string>
+    <string name="notFill">入力されてないプロンプトがあります。</string>
+    <string name="ans">答え</string>
+    <string name="ansBtn">計算する</string>
+    <string name="clearBtn">消去</string>
+    <string name="prompt1">数字を入力(1)</string>
+    <string name="prompt2">数字を入力(2)</string>
+    <string name="errorTitle">エラーやで</string>
+    <string name="errorMessage">数字の入力欄がしっかり埋まってるか確認してや。</string>
+    <string name="errorBtnText">OK牧場</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calc App</string>
+    <string name="notFill">There are prompts that have not been entered.</string>
+    <string name="ans">Answer</string>
+    <string name="ansBtn">Calc!</string>
+    <string name="clearBtn">Clear All</string>
+    <string name="prompt1">Set num 1</string>
+    <string name="prompt2">Set num 2</string>
+    <string name="errorTitle">ERROR!</string>
+    <string name="errorMessage">Make sure all prompts are populated with numbers.</string>
+    <string name="errorBtnText">OK</string>
+</resources>
